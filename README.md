@@ -2,7 +2,7 @@
 ![platform](https://img.shields.io/badge/platform-iOS-blue)
 ![collection](https://img.shields.io/badge/collection-URL%20Scheme-orange)
 
-不同应用场景下的 URL Scheme 信息获取，**将持续更新！**
+不同应用场景下的 iOS URL Scheme 信息获取，**将持续更新！**
 
 ### 扫一扫
 | 应用 | URL Scheme |
