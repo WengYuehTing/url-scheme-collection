@@ -119,6 +119,7 @@
 | 微视 | 作品 | weishi://feed?feed_id={itemId}
 | 网易新闻 | 新闻 | newsapp://doc/{postId}
 | 知乎 | 问题 | zhihu://question/{qid}
+| 网易云音乐 | 音乐 | orpheus://song/{musicId}
 
 <br>
 
